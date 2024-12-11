@@ -9,6 +9,13 @@ This project showcases a dynamic restaurant menu that updates based on user sele
 - **Interactive Design**: The page is interactive and provides users with an intuitive experience to explore various food and drink options.
 
 
+## How It Works
 
+1. **HTML Structure**: The page consists of a container where buttons and menu items will be dynamically added using JavaScript..
    
+2. **JavaScript Functionality**:
+   - JavaScript listens for button clicks (for **Breakfast**, **Lunch**, **Shakes**, and **Dinner**).
+   - When a button is clicked, the corresponding menu is dynamically loaded by updating the content displayed on the page.
+   - Menu items are stored in an array or object in JavaScript, and based on the category selected, the relevant menu items are displayed.
 
+3. **CSS Styling**: The page is styled for a clean, responsive layout. Each category has a distinct section with items listed in an easy-to-read format.
