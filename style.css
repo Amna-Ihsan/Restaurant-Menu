@@ -100,11 +100,7 @@ main {
   display: grid;
   place-items: center;
 }
-/*
-=============== 
-Menu
-===============
-*/
+
 
 .menu {
   padding: 5rem 0;
