@@ -8,6 +8,8 @@
 body {
   line-height: 1.5;
   font-size: 0.875rem;
+  background-color: #083b58;
+  color: #b4b4b4;
 }
 ul {
   list-style-type: none;
